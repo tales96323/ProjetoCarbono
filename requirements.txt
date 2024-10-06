@@ -1,0 +1,19 @@
+#requirements.py
+
+# Dependências do projeto
+
+# Framework de testes
+pytest==7.0.1
+
+# Flask (opcional) - usado se você expandir o projeto para uma API web
+flask==2.1.2
+
+# Pandas (opcional) - útil se o projeto precisar lidar com grandes volumes de dados ou relatórios complexos
+pandas==1.4.2
+
+# MatplotLib - Graficos e figuras
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# SQLAlchemy para trabalhar com bancos de dados
+SQLAlchemy==2.0.15  # Ou a versão mais recente
